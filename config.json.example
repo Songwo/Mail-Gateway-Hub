@@ -1,0 +1,28 @@
+{
+  "//_comment_ai": "Google Gemini API Key (https://aistudio.google.com/)",
+  "gemini_api_key": "YOUR_GEMINI_API_KEY",
+
+  "//_comment_feishu": "飞书机器人 Webhook 地址",
+  "feishu_webhook": "https://open.feishu.cn/open-apis/bot/v2/hook/...",
+
+  "//_comment_prompt": "AI 分析提示词，建议保留默认",
+  "system_prompt": "你是一个高效邮件助理。请分析邮件内容，返回 JSON：{\"category\": \"验证码|重要通知|垃圾推广|社交动态|工作相关|其他\", \"priority\": 1-5, \"summary\": \"50字内摘要\", \"verification_code\": \"提取到的验证码或null\"}。",
+
+  "//_comment_accounts": "待监听的邮箱列表",
+  "accounts": [
+    {
+      "alias": "工作邮件",
+      "email": "work@company.com",
+      "password": "填写16位授权码(非登录密码)",
+      "imap_server": "imap.company.com",
+      "folder": "INBOX"
+    },
+    {
+      "alias": "个人生活",
+      "email": "life@gmail.com",
+      "password": "填写Gmail应用专用密码",
+      "imap_server": "imap.gmail.com",
+      "folder": "INBOX"
+    }
+  ]
+}

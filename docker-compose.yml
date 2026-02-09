@@ -1,0 +1,17 @@
+services:
+  mail-gateway:
+    build: .
+    container_name: mail-gateway-hub
+    volumes:
+      - ./config.json:/app/config.json
+      - ./mail_gateway.db:/app/mail_gateway.db
+      - ./mail_gateway.log:/app/mail_gateway.log
+    environment:
+      - TZ=Asia/Shanghai
+      - PYTHONUNBUFFERED=1
+    restart: unless-stopped
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
