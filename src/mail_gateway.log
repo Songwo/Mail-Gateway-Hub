@@ -4,3 +4,1010 @@
 2026-02-09 16:49:22.456 | DEBUG    | __main__:check_account:188 - ✨ [工作] 无新邮件。
 2026-02-09 16:49:22.456 | INFO     | __main__:scheduler:219 - 💓 [HEARTBEAT] 监听中，20秒后下一轮...
 2026-02-09 16:49:38.798 | WARNING  | __main__:<module>:245 - 🛑 [SYSTEM] 服务已停止。
+2026-02-09 17:03:41.449 | SUCCESS  | __main__:scheduler:216 - 🚀 [SYSTEM] 正在监听 1 个邮箱...
+2026-02-09 17:03:41.454 | INFO     | __main__:check_account:168 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 17:03:42.647 | DEBUG    | __main__:check_account:188 - ✨ [工作] 无新邮件。
+2026-02-09 17:03:42.647 | INFO     | __main__:scheduler:219 - 💓 [HEARTBEAT] 监听中，20秒后下一轮...
+2026-02-09 17:04:02.648 | INFO     | __main__:check_account:168 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 17:04:03.834 | DEBUG    | __main__:check_account:188 - ✨ [工作] 无新邮件。
+2026-02-09 17:04:03.834 | INFO     | __main__:scheduler:219 - 💓 [HEARTBEAT] 监听中，20秒后下一轮...
+2026-02-09 17:04:23.836 | INFO     | __main__:check_account:168 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 17:04:24.989 | DEBUG    | __main__:check_account:188 - ✨ [工作] 无新邮件。
+2026-02-09 17:04:24.989 | INFO     | __main__:scheduler:219 - 💓 [HEARTBEAT] 监听中，20秒后下一轮...
+2026-02-09 17:04:44.989 | INFO     | __main__:check_account:168 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 17:04:46.163 | DEBUG    | __main__:check_account:188 - ✨ [工作] 无新邮件。
+2026-02-09 17:04:46.163 | INFO     | __main__:scheduler:219 - 💓 [HEARTBEAT] 监听中，20秒后下一轮...
+2026-02-09 17:05:06.174 | INFO     | __main__:check_account:168 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 17:05:07.447 | DEBUG    | __main__:check_account:188 - ✨ [工作] 无新邮件。
+2026-02-09 17:05:07.447 | INFO     | __main__:scheduler:219 - 💓 [HEARTBEAT] 监听中，20秒后下一轮...
+2026-02-09 17:05:27.451 | INFO     | __main__:check_account:168 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 17:05:28.632 | DEBUG    | __main__:check_account:188 - ✨ [工作] 无新邮件。
+2026-02-09 17:05:28.632 | INFO     | __main__:scheduler:219 - 💓 [HEARTBEAT] 监听中，20秒后下一轮...
+2026-02-09 17:05:48.636 | INFO     | __main__:check_account:168 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 17:05:49.782 | DEBUG    | __main__:check_account:188 - ✨ [工作] 无新邮件。
+2026-02-09 17:05:49.782 | INFO     | __main__:scheduler:219 - 💓 [HEARTBEAT] 监听中，20秒后下一轮...
+2026-02-09 17:06:09.785 | INFO     | __main__:check_account:168 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 17:06:11.103 | DEBUG    | __main__:check_account:188 - ✨ [工作] 无新邮件。
+2026-02-09 17:06:11.103 | INFO     | __main__:scheduler:219 - 💓 [HEARTBEAT] 监听中，20秒后下一轮...
+2026-02-09 17:06:31.105 | INFO     | __main__:check_account:168 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 17:06:32.294 | DEBUG    | __main__:check_account:188 - ✨ [工作] 无新邮件。
+2026-02-09 17:06:32.294 | INFO     | __main__:scheduler:219 - 💓 [HEARTBEAT] 监听中，20秒后下一轮...
+2026-02-09 17:06:52.308 | INFO     | __main__:check_account:168 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 17:06:53.551 | DEBUG    | __main__:check_account:188 - ✨ [工作] 无新邮件。
+2026-02-09 17:06:53.551 | INFO     | __main__:scheduler:219 - 💓 [HEARTBEAT] 监听中，20秒后下一轮...
+2026-02-09 17:07:13.554 | INFO     | __main__:check_account:168 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 17:07:14.962 | DEBUG    | __main__:check_account:188 - ✨ [工作] 无新邮件。
+2026-02-09 17:07:14.962 | INFO     | __main__:scheduler:219 - 💓 [HEARTBEAT] 监听中，20秒后下一轮...
+2026-02-09 17:07:34.965 | INFO     | __main__:check_account:168 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 17:07:36.393 | DEBUG    | __main__:check_account:188 - ✨ [工作] 无新邮件。
+2026-02-09 17:07:36.393 | INFO     | __main__:scheduler:219 - 💓 [HEARTBEAT] 监听中，20秒后下一轮...
+2026-02-09 17:07:56.404 | INFO     | __main__:check_account:168 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 17:07:57.925 | DEBUG    | __main__:check_account:188 - ✨ [工作] 无新邮件。
+2026-02-09 17:07:57.925 | INFO     | __main__:scheduler:219 - 💓 [HEARTBEAT] 监听中，20秒后下一轮...
+2026-02-09 17:08:17.935 | INFO     | __main__:check_account:168 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 17:08:19.344 | DEBUG    | __main__:check_account:188 - ✨ [工作] 无新邮件。
+2026-02-09 17:08:19.345 | INFO     | __main__:scheduler:219 - 💓 [HEARTBEAT] 监听中，20秒后下一轮...
+2026-02-09 17:08:39.355 | INFO     | __main__:check_account:168 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 17:08:40.808 | DEBUG    | __main__:check_account:188 - ✨ [工作] 无新邮件。
+2026-02-09 17:08:40.809 | INFO     | __main__:scheduler:219 - 💓 [HEARTBEAT] 监听中，20秒后下一轮...
+2026-02-09 17:08:55.888 | WARNING  | __main__:<module>:245 - 🛑 [SYSTEM] 服务已停止。
+2026-02-09 17:11:28.960 | SUCCESS  | __main__:scheduler:216 - 🚀 [SYSTEM] 正在监听 1 个邮箱...
+2026-02-09 17:11:28.960 | INFO     | __main__:check_account:168 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 17:11:30.376 | DEBUG    | __main__:check_account:188 - ✨ [工作] 无新邮件。
+2026-02-09 17:11:30.376 | INFO     | __main__:scheduler:219 - 💓 [HEARTBEAT] 监听中，20秒后下一轮...
+2026-02-09 17:11:50.387 | INFO     | __main__:check_account:168 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 17:11:51.842 | DEBUG    | __main__:check_account:188 - ✨ [工作] 无新邮件。
+2026-02-09 17:11:51.842 | INFO     | __main__:scheduler:219 - 💓 [HEARTBEAT] 监听中，20秒后下一轮...
+2026-02-09 17:12:11.851 | INFO     | __main__:check_account:168 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 17:12:13.255 | DEBUG    | __main__:check_account:188 - ✨ [工作] 无新邮件。
+2026-02-09 17:12:13.255 | INFO     | __main__:scheduler:219 - 💓 [HEARTBEAT] 监听中，20秒后下一轮...
+2026-02-09 17:12:33.265 | INFO     | __main__:check_account:168 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 17:12:34.671 | DEBUG    | __main__:check_account:188 - ✨ [工作] 无新邮件。
+2026-02-09 17:12:34.671 | INFO     | __main__:scheduler:219 - 💓 [HEARTBEAT] 监听中，20秒后下一轮...
+2026-02-09 17:12:54.673 | INFO     | __main__:check_account:168 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 17:12:56.452 | SUCCESS  | __main__:check_account:191 - 📩 [工作] 发现 1 封新邮件！
+2026-02-09 17:13:51.970 | ERROR    | __main__:_sync_call_gemini:110 - ❌ [AI] Gemini 调用失败 (尝试模型: gemini-1.5-flash-latest)
+2026-02-09 17:13:51.990 | ERROR    | __main__:_sync_call_gemini:111 - Traceback (most recent call last):
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\api_core\grpc_helpers.py", line 75, in error_remapped_callable
+    return callable_(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\grpc\_interceptor.py", line 276, in __call__
+    response, ignored_call = self._with_call(
+                             ^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\grpc\_interceptor.py", line 331, in _with_call
+    return call.result(), call
+           ^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\grpc\_channel.py", line 438, in result
+    raise self
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\grpc\_interceptor.py", line 314, in continuation
+    response, call = self._thunk(new_method).with_call(
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\grpc\_channel.py", line 1173, in with_call
+    return _end_unary_response_blocking(state, call, True, None)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\grpc\_channel.py", line 990, in _end_unary_response_blocking
+    raise _InactiveRpcError(state)  # pytype: disable=not-instantiable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+grpc._channel._InactiveRpcError: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses; last error: UNKNOWN: ipv4:142.250.204.42:443: socket is null"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_status:14, grpc_message:"failed to connect to all addresses; last error: UNKNOWN: ipv4:142.250.204.42:443: socket is null"}"
+>
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+             ^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\api_core\grpc_helpers.py", line 77, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.ServiceUnavailable: 503 failed to connect to all addresses; last error: UNKNOWN: ipv4:142.250.204.42:443: socket is null
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 98, in _sync_call_gemini
+    available_models = [m.name for m in genai.list_models() if 'generateContent' in m.supported_generation_methods]
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 98, in <listcomp>
+    available_models = [m.name for m in genai.list_models() if 'generateContent' in m.supported_generation_methods]
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\generativeai\models.py", line 204, in list_models
+    for model in client.list_models(page_size=page_size, **request_options):
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\ai\generativelanguage_v1beta\services\model_service\client.py", line 923, in list_models
+    response = rpc(
+               ^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+           ^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+                 ^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\api_core\retry\retry_base.py", line 229, in _retry_error_helper
+    raise final_exc from source_exc
+google.api_core.exceptions.RetryError: Timeout of 60.0s exceeded, last exception: 503 failed to connect to all addresses; last error: UNKNOWN: ipv4:142.250.204.42:443: socket is null
+
+2026-02-09 17:13:52.889 | SUCCESS  | __main__:check_account:199 - ✅ [工作] 处理成功: Test
+2026-02-09 17:13:54.892 | INFO     | __main__:scheduler:219 - 💓 [HEARTBEAT] 监听中，20秒后下一轮...
+2026-02-09 17:14:14.902 | INFO     | __main__:check_account:168 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 17:14:16.576 | SUCCESS  | __main__:check_account:191 - 📩 [工作] 发现 1 封新邮件！
+2026-02-09 17:14:16.578 | INFO     | __main__:scheduler:219 - 💓 [HEARTBEAT] 监听中，20秒后下一轮...
+2026-02-09 17:14:36.579 | INFO     | __main__:check_account:168 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 17:14:38.180 | SUCCESS  | __main__:check_account:191 - 📩 [工作] 发现 1 封新邮件！
+2026-02-09 17:14:38.181 | INFO     | __main__:scheduler:219 - 💓 [HEARTBEAT] 监听中，20秒后下一轮...
+2026-02-09 17:14:58.196 | INFO     | __main__:check_account:168 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 17:14:59.792 | SUCCESS  | __main__:check_account:191 - 📩 [工作] 发现 1 封新邮件！
+2026-02-09 17:14:59.793 | INFO     | __main__:scheduler:219 - 💓 [HEARTBEAT] 监听中，20秒后下一轮...
+2026-02-09 17:15:19.798 | INFO     | __main__:check_account:168 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 17:15:21.440 | SUCCESS  | __main__:check_account:191 - 📩 [工作] 发现 1 封新邮件！
+2026-02-09 17:15:21.441 | INFO     | __main__:scheduler:219 - 💓 [HEARTBEAT] 监听中，20秒后下一轮...
+2026-02-09 17:15:41.446 | INFO     | __main__:check_account:168 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 17:15:43.121 | SUCCESS  | __main__:check_account:191 - 📩 [工作] 发现 1 封新邮件！
+2026-02-09 17:15:43.123 | INFO     | __main__:scheduler:219 - 💓 [HEARTBEAT] 监听中，20秒后下一轮...
+2026-02-09 17:16:03.124 | INFO     | __main__:check_account:168 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 17:16:04.745 | SUCCESS  | __main__:check_account:191 - 📩 [工作] 发现 1 封新邮件！
+2026-02-09 17:16:04.746 | INFO     | __main__:scheduler:219 - 💓 [HEARTBEAT] 监听中，20秒后下一轮...
+2026-02-09 17:16:24.756 | INFO     | __main__:check_account:168 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 17:16:26.705 | SUCCESS  | __main__:check_account:191 - 📩 [工作] 发现 1 封新邮件！
+2026-02-09 17:16:26.706 | INFO     | __main__:scheduler:219 - 💓 [HEARTBEAT] 监听中，20秒后下一轮...
+2026-02-09 17:16:46.709 | INFO     | __main__:check_account:168 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 17:16:48.300 | SUCCESS  | __main__:check_account:191 - 📩 [工作] 发现 1 封新邮件！
+2026-02-09 17:16:48.301 | INFO     | __main__:scheduler:219 - 💓 [HEARTBEAT] 监听中，20秒后下一轮...
+2026-02-09 17:17:08.316 | INFO     | __main__:check_account:168 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 17:17:09.634 | DEBUG    | __main__:check_account:188 - ✨ [工作] 无新邮件。
+2026-02-09 17:17:09.635 | INFO     | __main__:scheduler:219 - 💓 [HEARTBEAT] 监听中，20秒后下一轮...
+2026-02-09 17:17:29.638 | INFO     | __main__:check_account:168 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 17:17:30.877 | DEBUG    | __main__:check_account:188 - ✨ [工作] 无新邮件。
+2026-02-09 17:17:30.877 | INFO     | __main__:scheduler:219 - 💓 [HEARTBEAT] 监听中，20秒后下一轮...
+2026-02-09 17:17:50.890 | INFO     | __main__:check_account:168 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 17:17:52.175 | DEBUG    | __main__:check_account:188 - ✨ [工作] 无新邮件。
+2026-02-09 17:17:52.175 | INFO     | __main__:scheduler:219 - 💓 [HEARTBEAT] 监听中，20秒后下一轮...
+2026-02-09 17:18:12.178 | INFO     | __main__:check_account:168 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 17:18:13.279 | DEBUG    | __main__:check_account:188 - ✨ [工作] 无新邮件。
+2026-02-09 17:18:13.279 | INFO     | __main__:scheduler:219 - 💓 [HEARTBEAT] 监听中，20秒后下一轮...
+2026-02-09 17:18:33.294 | INFO     | __main__:check_account:168 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 17:18:34.813 | DEBUG    | __main__:check_account:188 - ✨ [工作] 无新邮件。
+2026-02-09 17:18:34.813 | INFO     | __main__:scheduler:219 - 💓 [HEARTBEAT] 监听中，20秒后下一轮...
+2026-02-09 17:18:54.815 | INFO     | __main__:check_account:168 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 17:18:56.151 | DEBUG    | __main__:check_account:188 - ✨ [工作] 无新邮件。
+2026-02-09 17:18:56.152 | INFO     | __main__:scheduler:219 - 💓 [HEARTBEAT] 监听中，20秒后下一轮...
+2026-02-09 17:19:16.155 | INFO     | __main__:check_account:168 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 17:19:17.534 | DEBUG    | __main__:check_account:188 - ✨ [工作] 无新邮件。
+2026-02-09 17:19:17.535 | INFO     | __main__:scheduler:219 - 💓 [HEARTBEAT] 监听中，20秒后下一轮...
+2026-02-09 17:19:37.548 | INFO     | __main__:check_account:168 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 17:19:38.901 | DEBUG    | __main__:check_account:188 - ✨ [工作] 无新邮件。
+2026-02-09 17:19:38.901 | INFO     | __main__:scheduler:219 - 💓 [HEARTBEAT] 监听中，20秒后下一轮...
+2026-02-09 17:19:58.903 | INFO     | __main__:check_account:168 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 17:20:00.416 | DEBUG    | __main__:check_account:188 - ✨ [工作] 无新邮件。
+2026-02-09 17:20:00.417 | INFO     | __main__:scheduler:219 - 💓 [HEARTBEAT] 监听中，20秒后下一轮...
+2026-02-09 17:20:20.423 | INFO     | __main__:check_account:168 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 17:20:21.861 | DEBUG    | __main__:check_account:188 - ✨ [工作] 无新邮件。
+2026-02-09 17:20:21.861 | INFO     | __main__:scheduler:219 - 💓 [HEARTBEAT] 监听中，20秒后下一轮...
+2026-02-09 17:20:24.675 | WARNING  | __main__:<module>:245 - 🛑 [SYSTEM] 服务已停止。
+2026-02-09 18:02:51.479 | INFO     | __main__:<module>:347 - 🌐 [SERVER] 回调服务将运行在端口 8000
+2026-02-09 18:02:51.514 | SUCCESS  | __main__:scheduler:315 - 🚀 [SYSTEM] 正在监听 1 个邮箱...
+2026-02-09 18:02:51.514 | INFO     | __main__:check_account:252 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:02:53.484 | SUCCESS  | __main__:check_account:292 - 📩 [工作] 发现 2 封未处理新邮件！
+2026-02-09 18:02:53.485 | ERROR    | __main__:check_account:302 - ❌ [工作] 连接或处理错误！
+2026-02-09 18:02:53.486 | ERROR    | __main__:check_account:303 - Traceback (most recent call last):
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 295, in check_account
+    ai_result = await async_call_gemini(msg['content'], global_config)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 87, in async_call_gemini
+    return await loop.run_in_executor(executor, _sync_call_gemini, content, config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PyAnaconda\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 105, in _sync_call_gemini
+    client = genai.Client(api_key=api_key)
+             ^^^^^
+NameError: name 'genai' is not defined
+
+2026-02-09 18:02:53.486 | INFO     | __main__:scheduler:318 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:03:16.057 | WARNING  | __main__:<module>:363 - 🛑 [SYSTEM] 服务已手动停止。
+2026-02-09 18:04:06.118 | INFO     | __main__:<module>:348 - 🌐 [SERVER] 回调服务将运行在端口 8000
+2026-02-09 18:04:06.151 | SUCCESS  | __main__:scheduler:316 - 🚀 [SYSTEM] 正在监听 1 个邮箱...
+2026-02-09 18:04:06.151 | INFO     | __main__:check_account:253 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:04:08.149 | SUCCESS  | __main__:check_account:293 - 📩 [工作] 发现 2 封未处理新邮件！
+2026-02-09 18:04:08.149 | ERROR    | __main__:check_account:303 - ❌ [工作] 连接或处理错误！
+2026-02-09 18:04:08.150 | ERROR    | __main__:check_account:304 - Traceback (most recent call last):
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 296, in check_account
+    ai_result = await async_call_gemini(msg['content'], global_config)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 88, in async_call_gemini
+    return await loop.run_in_executor(executor, _sync_call_gemini, content, config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PyAnaconda\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 106, in _sync_call_gemini
+    client = genai.Client(api_key=api_key)
+             ^^^^^^^^^^^^
+AttributeError: module 'google.generativeai' has no attribute 'Client'
+
+2026-02-09 18:04:08.151 | INFO     | __main__:scheduler:319 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:04:12.805 | WARNING  | __main__:<module>:364 - 🛑 [SYSTEM] 服务已手动停止。
+2026-02-09 18:09:42.528 | INFO     | __main__:<module>:348 - 🌐 [SERVER] 回调服务将运行在端口 8000
+2026-02-09 18:09:42.569 | SUCCESS  | __main__:scheduler:316 - 🚀 [SYSTEM] 正在监听 1 个邮箱...
+2026-02-09 18:09:42.569 | INFO     | __main__:check_account:253 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:09:44.601 | SUCCESS  | __main__:check_account:293 - 📩 [工作] 发现 2 封未处理新邮件！
+2026-02-09 18:09:50.679 | ERROR    | __main__:_sync_call_gemini:121 - ❌ [AI] Gemini 调用失败 (尝试模型: gemini-pro)
+2026-02-09 18:09:50.686 | ERROR    | __main__:_sync_call_gemini:122 - Traceback (most recent call last):
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 119, in _sync_call_gemini
+    raise last_error if last_error else RuntimeError("未能调用任何可用模型")
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 113, in _sync_call_gemini
+    resp = client.models.generate_content(model=tm, contents=prompt)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\models.py", line 5474, in generate_content
+    response = self._generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\models.py", line 4214, in _generate_content
+    response = self._api_client.request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\_api_client.py", line 1386, in request
+    response = self._request(http_request, http_options, stream=False)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\_api_client.py", line 1222, in _request
+    return self._retry(self._request_once, http_request, stream)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\tenacity\__init__.py", line 470, in __call__
+    do = self.iter(retry_state=retry_state)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\tenacity\__init__.py", line 371, in iter
+    result = action(retry_state)
+             ^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\tenacity\__init__.py", line 413, in exc_check
+    raise retry_exc.reraise()
+          ^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\tenacity\__init__.py", line 184, in reraise
+    raise self.last_attempt.result()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PyAnaconda\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "D:\PyAnaconda\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\tenacity\__init__.py", line 473, in __call__
+    result = fn(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\_api_client.py", line 1199, in _request_once
+    errors.APIError.raise_for_response(response)
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\errors.py", line 134, in raise_for_response
+    cls.raise_error(response.status_code, response_json, response)
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\errors.py", line 159, in raise_error
+    raise ClientError(status_code, response_json, response)
+google.genai.errors.ClientError: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+
+2026-02-09 18:09:51.584 | SUCCESS  | __main__:check_account:299 - ✅ [工作] 处理成功: [Action Required] Your Verification Code for AI-Gateway-Hub
+2026-02-09 18:10:10.751 | ERROR    | __main__:_sync_call_gemini:121 - ❌ [AI] Gemini 调用失败 (尝试模型: gemini-pro)
+2026-02-09 18:10:10.755 | ERROR    | __main__:_sync_call_gemini:122 - Traceback (most recent call last):
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 119, in _sync_call_gemini
+    raise last_error if last_error else RuntimeError("未能调用任何可用模型")
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 113, in _sync_call_gemini
+    resp = client.models.generate_content(model=tm, contents=prompt)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\models.py", line 5474, in generate_content
+    response = self._generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\models.py", line 4214, in _generate_content
+    response = self._api_client.request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\_api_client.py", line 1386, in request
+    response = self._request(http_request, http_options, stream=False)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\_api_client.py", line 1222, in _request
+    return self._retry(self._request_once, http_request, stream)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\tenacity\__init__.py", line 470, in __call__
+    do = self.iter(retry_state=retry_state)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\tenacity\__init__.py", line 371, in iter
+    result = action(retry_state)
+             ^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\tenacity\__init__.py", line 413, in exc_check
+    raise retry_exc.reraise()
+          ^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\tenacity\__init__.py", line 184, in reraise
+    raise self.last_attempt.result()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PyAnaconda\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "D:\PyAnaconda\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\tenacity\__init__.py", line 473, in __call__
+    result = fn(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\_api_client.py", line 1199, in _request_once
+    errors.APIError.raise_for_response(response)
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\errors.py", line 134, in raise_for_response
+    cls.raise_error(response.status_code, response_json, response)
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\errors.py", line 159, in raise_error
+    raise ClientError(status_code, response_json, response)
+google.genai.errors.ClientError: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+
+2026-02-09 18:10:11.553 | SUCCESS  | __main__:check_account:299 - ✅ [工作] 处理成功: Hey, just checking in 😄
+2026-02-09 18:10:12.570 | INFO     | __main__:scheduler:319 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:10:42.580 | INFO     | __main__:check_account:253 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:10:44.653 | DEBUG    | __main__:check_account:290 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:10:44.653 | INFO     | __main__:scheduler:319 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:11:14.675 | INFO     | __main__:check_account:253 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:11:16.441 | DEBUG    | __main__:check_account:290 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:11:16.441 | INFO     | __main__:scheduler:319 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:11:46.458 | INFO     | __main__:check_account:253 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:11:48.414 | DEBUG    | __main__:check_account:290 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:11:48.414 | INFO     | __main__:scheduler:319 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:12:18.429 | INFO     | __main__:check_account:253 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:12:20.874 | DEBUG    | __main__:check_account:290 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:12:20.874 | INFO     | __main__:scheduler:319 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:12:50.887 | INFO     | __main__:check_account:253 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:12:52.853 | DEBUG    | __main__:check_account:290 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:12:52.853 | INFO     | __main__:scheduler:319 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:13:22.853 | INFO     | __main__:check_account:253 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:13:24.876 | DEBUG    | __main__:check_account:290 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:13:24.876 | INFO     | __main__:scheduler:319 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:13:54.893 | INFO     | __main__:check_account:253 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:13:56.557 | DEBUG    | __main__:check_account:290 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:13:56.557 | INFO     | __main__:scheduler:319 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:14:15.922 | WARNING  | __main__:<module>:364 - 🛑 [SYSTEM] 服务已手动停止。
+2026-02-09 18:14:18.042 | INFO     | __main__:<module>:348 - 🌐 [SERVER] 回调服务将运行在端口 8000
+2026-02-09 18:14:18.077 | SUCCESS  | __main__:scheduler:316 - 🚀 [SYSTEM] 正在监听 1 个邮箱...
+2026-02-09 18:14:18.077 | INFO     | __main__:check_account:253 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:14:19.819 | DEBUG    | __main__:check_account:290 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:14:19.820 | INFO     | __main__:scheduler:319 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:14:49.813 | INFO     | __main__:check_account:253 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:14:51.496 | DEBUG    | __main__:check_account:290 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:14:51.496 | INFO     | __main__:scheduler:319 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:15:21.515 | INFO     | __main__:check_account:253 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:15:23.293 | DEBUG    | __main__:check_account:290 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:15:23.293 | INFO     | __main__:scheduler:319 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:15:53.311 | INFO     | __main__:check_account:253 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:15:55.081 | DEBUG    | __main__:check_account:290 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:15:55.081 | INFO     | __main__:scheduler:319 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:16:25.079 | INFO     | __main__:check_account:253 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:16:26.798 | DEBUG    | __main__:check_account:290 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:16:26.798 | INFO     | __main__:scheduler:319 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:16:56.801 | INFO     | __main__:check_account:253 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:16:58.792 | SUCCESS  | __main__:check_account:293 - 📩 [工作] 发现 1 封未处理新邮件！
+2026-02-09 18:17:00.521 | ERROR    | __main__:_sync_call_gemini:121 - ❌ [AI] Gemini 调用失败 (尝试模型: gemini-1.5-pro)
+2026-02-09 18:17:00.543 | ERROR    | __main__:_sync_call_gemini:122 - Traceback (most recent call last):
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 119, in _sync_call_gemini
+    raise last_error if last_error else RuntimeError("未能调用任何可用模型")
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 113, in _sync_call_gemini
+    resp = client.models.generate_content(model=tm, contents=prompt)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\models.py", line 5474, in generate_content
+    response = self._generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\models.py", line 4214, in _generate_content
+    response = self._api_client.request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\_api_client.py", line 1386, in request
+    response = self._request(http_request, http_options, stream=False)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\_api_client.py", line 1222, in _request
+    return self._retry(self._request_once, http_request, stream)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\tenacity\__init__.py", line 470, in __call__
+    do = self.iter(retry_state=retry_state)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\tenacity\__init__.py", line 371, in iter
+    result = action(retry_state)
+             ^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\tenacity\__init__.py", line 413, in exc_check
+    raise retry_exc.reraise()
+          ^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\tenacity\__init__.py", line 184, in reraise
+    raise self.last_attempt.result()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PyAnaconda\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "D:\PyAnaconda\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\tenacity\__init__.py", line 473, in __call__
+    result = fn(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\_api_client.py", line 1199, in _request_once
+    errors.APIError.raise_for_response(response)
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\errors.py", line 134, in raise_for_response
+    cls.raise_error(response.status_code, response_json, response)
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\errors.py", line 159, in raise_error
+    raise ClientError(status_code, response_json, response)
+google.genai.errors.ClientError: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+
+2026-02-09 18:17:01.406 | SUCCESS  | __main__:check_account:299 - ✅ [工作] 处理成功: Hey! You going to the party this weekend? 🎉
+2026-02-09 18:17:02.431 | INFO     | __main__:scheduler:319 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:17:32.434 | INFO     | __main__:check_account:253 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:17:33.834 | DEBUG    | __main__:check_account:290 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:17:33.834 | INFO     | __main__:scheduler:319 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:18:03.847 | INFO     | __main__:check_account:253 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:18:05.405 | DEBUG    | __main__:check_account:290 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:18:05.405 | INFO     | __main__:scheduler:319 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:18:35.414 | INFO     | __main__:check_account:253 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:18:36.750 | DEBUG    | __main__:check_account:290 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:18:36.750 | INFO     | __main__:scheduler:319 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:19:06.759 | INFO     | __main__:check_account:253 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:19:08.373 | DEBUG    | __main__:check_account:290 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:19:08.374 | INFO     | __main__:scheduler:319 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:19:38.373 | INFO     | __main__:check_account:253 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:19:39.882 | DEBUG    | __main__:check_account:290 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:19:39.882 | INFO     | __main__:scheduler:319 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:20:09.884 | INFO     | __main__:check_account:253 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:20:11.436 | DEBUG    | __main__:check_account:290 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:20:11.436 | INFO     | __main__:scheduler:319 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:20:41.448 | INFO     | __main__:check_account:253 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:20:42.900 | DEBUG    | __main__:check_account:290 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:20:42.901 | INFO     | __main__:scheduler:319 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:21:12.917 | INFO     | __main__:check_account:253 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:21:14.561 | DEBUG    | __main__:check_account:290 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:21:14.561 | INFO     | __main__:scheduler:319 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:21:44.587 | INFO     | __main__:check_account:253 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:21:46.064 | DEBUG    | __main__:check_account:290 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:21:46.064 | INFO     | __main__:scheduler:319 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:22:16.085 | INFO     | __main__:check_account:253 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:22:17.471 | DEBUG    | __main__:check_account:290 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:22:17.472 | INFO     | __main__:scheduler:319 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:22:47.472 | INFO     | __main__:check_account:253 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:22:49.544 | DEBUG    | __main__:check_account:290 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:22:49.544 | INFO     | __main__:scheduler:319 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:23:19.568 | INFO     | __main__:check_account:253 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:23:21.102 | DEBUG    | __main__:check_account:290 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:23:21.103 | INFO     | __main__:scheduler:319 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:23:51.103 | INFO     | __main__:check_account:253 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:23:52.555 | DEBUG    | __main__:check_account:290 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:23:52.555 | INFO     | __main__:scheduler:319 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:24:22.550 | INFO     | __main__:check_account:253 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:24:24.091 | DEBUG    | __main__:check_account:290 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:24:24.091 | INFO     | __main__:scheduler:319 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:24:36.527 | WARNING  | __main__:<module>:364 - 🛑 [SYSTEM] 服务已手动停止。
+2026-02-09 18:24:39.941 | SUCCESS  | __main__:scheduler:248 - 🚀 [SYSTEM] 正在监听 1 个邮箱...
+2026-02-09 18:24:39.942 | INFO     | __main__:check_account:185 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:24:41.340 | DEBUG    | __main__:check_account:222 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:24:41.341 | INFO     | __main__:scheduler:251 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:25:11.347 | INFO     | __main__:check_account:185 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:25:12.897 | DEBUG    | __main__:check_account:222 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:25:12.898 | INFO     | __main__:scheduler:251 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:25:42.913 | INFO     | __main__:check_account:185 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:25:44.318 | DEBUG    | __main__:check_account:222 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:25:44.318 | INFO     | __main__:scheduler:251 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:26:14.327 | INFO     | __main__:check_account:185 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:26:16.011 | SUCCESS  | __main__:check_account:225 - 📩 [工作] 发现 1 封未处理新邮件！
+2026-02-09 18:26:16.918 | WARNING  | __main__:_sync_call_gemini:117 - ⚠️ [AI] 模型不可用或调用失败: gemini-1.5-flash-latest | ClientError
+2026-02-09 18:26:17.111 | WARNING  | __main__:_sync_call_gemini:117 - ⚠️ [AI] 模型不可用或调用失败: gemini-1.5-flash | ClientError
+2026-02-09 18:26:17.111 | ERROR    | __main__:_sync_call_gemini:122 - ❌ [AI] Gemini 调用失败 (尝试模型: gemini-1.5-flash)
+2026-02-09 18:26:17.115 | ERROR    | __main__:_sync_call_gemini:123 - Traceback (most recent call last):
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 120, in _sync_call_gemini
+    raise last_error if last_error else RuntimeError("未能调用任何可用模型")
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 113, in _sync_call_gemini
+    resp = client.models.generate_content(model=tm, contents=prompt)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\models.py", line 5474, in generate_content
+    response = self._generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\models.py", line 4214, in _generate_content
+    response = self._api_client.request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\_api_client.py", line 1386, in request
+    response = self._request(http_request, http_options, stream=False)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\_api_client.py", line 1222, in _request
+    return self._retry(self._request_once, http_request, stream)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\tenacity\__init__.py", line 470, in __call__
+    do = self.iter(retry_state=retry_state)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\tenacity\__init__.py", line 371, in iter
+    result = action(retry_state)
+             ^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\tenacity\__init__.py", line 413, in exc_check
+    raise retry_exc.reraise()
+          ^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\tenacity\__init__.py", line 184, in reraise
+    raise self.last_attempt.result()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PyAnaconda\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "D:\PyAnaconda\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\tenacity\__init__.py", line 473, in __call__
+    result = fn(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\_api_client.py", line 1199, in _request_once
+    errors.APIError.raise_for_response(response)
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\errors.py", line 134, in raise_for_response
+    cls.raise_error(response.status_code, response_json, response)
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\errors.py", line 159, in raise_error
+    raise ClientError(status_code, response_json, response)
+google.genai.errors.ClientError: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+
+2026-02-09 18:26:17.921 | SUCCESS  | __main__:check_account:231 - ✅ [工作] 处理成功: Hey! You going to the party this weekend? 🎉
+2026-02-09 18:26:18.931 | INFO     | __main__:scheduler:251 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:26:48.940 | INFO     | __main__:check_account:185 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:26:50.406 | DEBUG    | __main__:check_account:222 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:26:50.407 | INFO     | __main__:scheduler:251 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:27:20.411 | INFO     | __main__:check_account:185 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:27:21.888 | DEBUG    | __main__:check_account:222 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:27:21.888 | INFO     | __main__:scheduler:251 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:27:51.893 | INFO     | __main__:check_account:185 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:27:53.358 | DEBUG    | __main__:check_account:222 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:27:53.359 | INFO     | __main__:scheduler:251 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:28:23.373 | INFO     | __main__:check_account:185 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:28:24.891 | DEBUG    | __main__:check_account:222 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:28:24.891 | INFO     | __main__:scheduler:251 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:28:54.893 | INFO     | __main__:check_account:185 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:28:56.171 | DEBUG    | __main__:check_account:222 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:28:56.171 | INFO     | __main__:scheduler:251 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:29:26.186 | INFO     | __main__:check_account:185 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:29:27.576 | DEBUG    | __main__:check_account:222 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:29:27.576 | INFO     | __main__:scheduler:251 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:29:57.589 | INFO     | __main__:check_account:185 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:29:58.891 | DEBUG    | __main__:check_account:222 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:29:58.891 | INFO     | __main__:scheduler:251 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:30:28.892 | INFO     | __main__:check_account:185 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:30:30.341 | DEBUG    | __main__:check_account:222 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:30:30.341 | INFO     | __main__:scheduler:251 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:31:00.354 | INFO     | __main__:check_account:185 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:31:01.697 | DEBUG    | __main__:check_account:222 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:31:01.698 | INFO     | __main__:scheduler:251 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:31:22.843 | WARNING  | __main__:<module>:281 - 🛑 [SYSTEM] 服务已手动停止。
+2026-02-09 18:31:28.245 | SUCCESS  | __main__:scheduler:280 - 🚀 [SYSTEM] 正在监听 1 个邮箱...
+2026-02-09 18:31:28.245 | INFO     | __main__:check_account:217 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:31:29.654 | DEBUG    | __main__:check_account:254 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:31:29.654 | INFO     | __main__:scheduler:283 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:31:59.663 | INFO     | __main__:check_account:217 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:32:01.064 | DEBUG    | __main__:check_account:254 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:32:01.064 | INFO     | __main__:scheduler:283 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:32:31.077 | INFO     | __main__:check_account:217 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:32:32.468 | DEBUG    | __main__:check_account:254 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:32:32.469 | INFO     | __main__:scheduler:283 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:33:02.474 | INFO     | __main__:check_account:217 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:33:03.833 | DEBUG    | __main__:check_account:254 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:33:03.833 | INFO     | __main__:scheduler:283 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:33:33.836 | INFO     | __main__:check_account:217 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:33:35.868 | SUCCESS  | __main__:check_account:257 - 📩 [工作] 发现 1 封未处理新邮件！
+2026-02-09 18:33:37.349 | WARNING  | __main__:_sync_call_gemini:128 - ⚠️ [AI] 模型不可用或调用失败: gemini-1.5-flash-latest | ClientError
+2026-02-09 18:33:37.533 | WARNING  | __main__:_sync_call_gemini:128 - ⚠️ [AI] 模型不可用或调用失败: gemini-1.5-flash | ClientError
+2026-02-09 18:33:37.533 | ERROR    | __main__:_sync_call_gemini:133 - ❌ [AI] Gemini 调用失败 (尝试模型: gemini-1.5-flash)
+2026-02-09 18:33:37.538 | ERROR    | __main__:_sync_call_gemini:134 - Traceback (most recent call last):
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 131, in _sync_call_gemini
+    raise last_error if last_error else RuntimeError("未能调用任何可用模型")
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 124, in _sync_call_gemini
+    resp = client.models.generate_content(model=tm, contents=prompt)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\models.py", line 5474, in generate_content
+    response = self._generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\models.py", line 4214, in _generate_content
+    response = self._api_client.request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\_api_client.py", line 1386, in request
+    response = self._request(http_request, http_options, stream=False)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\_api_client.py", line 1222, in _request
+    return self._retry(self._request_once, http_request, stream)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\tenacity\__init__.py", line 470, in __call__
+    do = self.iter(retry_state=retry_state)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\tenacity\__init__.py", line 371, in iter
+    result = action(retry_state)
+             ^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\tenacity\__init__.py", line 413, in exc_check
+    raise retry_exc.reraise()
+          ^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\tenacity\__init__.py", line 184, in reraise
+    raise self.last_attempt.result()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PyAnaconda\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "D:\PyAnaconda\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\tenacity\__init__.py", line 473, in __call__
+    result = fn(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\_api_client.py", line 1199, in _request_once
+    errors.APIError.raise_for_response(response)
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\errors.py", line 134, in raise_for_response
+    cls.raise_error(response.status_code, response_json, response)
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\errors.py", line 159, in raise_error
+    raise ClientError(status_code, response_json, response)
+google.genai.errors.ClientError: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+
+2026-02-09 18:33:38.490 | SUCCESS  | __main__:check_account:263 - ✅ [工作] 处理成功: Hey! You going to the party this weekend? 🎉
+2026-02-09 18:33:39.495 | INFO     | __main__:scheduler:283 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:34:09.502 | INFO     | __main__:check_account:217 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:34:11.270 | DEBUG    | __main__:check_account:254 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:34:11.270 | INFO     | __main__:scheduler:283 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:34:41.277 | INFO     | __main__:check_account:217 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:34:42.890 | DEBUG    | __main__:check_account:254 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:34:42.891 | INFO     | __main__:scheduler:283 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:35:12.902 | INFO     | __main__:check_account:217 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:35:14.750 | DEBUG    | __main__:check_account:254 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:35:14.750 | INFO     | __main__:scheduler:283 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:35:44.757 | INFO     | __main__:check_account:217 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:35:46.796 | DEBUG    | __main__:check_account:254 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:35:46.796 | INFO     | __main__:scheduler:283 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:36:16.802 | INFO     | __main__:check_account:217 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:36:18.673 | DEBUG    | __main__:check_account:254 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:36:18.673 | INFO     | __main__:scheduler:283 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:36:30.710 | WARNING  | __main__:<module>:313 - 🛑 [SYSTEM] 服务已手动停止。
+2026-02-09 18:36:32.537 | SUCCESS  | __main__:scheduler:286 - 🚀 [SYSTEM] 正在监听 1 个邮箱...
+2026-02-09 18:36:32.537 | INFO     | __main__:check_account:223 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:36:34.454 | DEBUG    | __main__:check_account:260 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:36:34.454 | INFO     | __main__:scheduler:289 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:37:04.467 | INFO     | __main__:check_account:223 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:37:06.359 | DEBUG    | __main__:check_account:260 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:37:06.359 | INFO     | __main__:scheduler:289 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:37:36.368 | INFO     | __main__:check_account:223 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:37:38.055 | DEBUG    | __main__:check_account:260 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:37:38.056 | INFO     | __main__:scheduler:289 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:38:08.067 | INFO     | __main__:check_account:223 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:38:10.025 | DEBUG    | __main__:check_account:260 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:38:10.026 | INFO     | __main__:scheduler:289 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:38:40.029 | INFO     | __main__:check_account:223 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:38:41.875 | SUCCESS  | __main__:check_account:263 - 📩 [工作] 发现 1 封未处理新邮件！
+2026-02-09 18:38:43.098 | INFO     | __main__:_sync_call_gemini:122 - ✅ [AI] 自动检测可用模型: gemini-2.5-flash，已写入配置
+2026-02-09 18:38:43.496 | WARNING  | __main__:_sync_call_gemini:134 - ⚠️ [AI] 模型不可用或调用失败: gemini-2.5-flash | ClientError
+2026-02-09 18:38:43.496 | ERROR    | __main__:_sync_call_gemini:139 - ❌ [AI] Gemini 调用失败 (尝试模型: gemini-2.5-flash)
+2026-02-09 18:38:43.501 | ERROR    | __main__:_sync_call_gemini:140 - Traceback (most recent call last):
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 137, in _sync_call_gemini
+    raise last_error if last_error else RuntimeError("未能调用任何可用模型")
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 130, in _sync_call_gemini
+    resp = client.models.generate_content(model=tm, contents=prompt)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\models.py", line 5474, in generate_content
+    response = self._generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\models.py", line 4214, in _generate_content
+    response = self._api_client.request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\_api_client.py", line 1386, in request
+    response = self._request(http_request, http_options, stream=False)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\_api_client.py", line 1222, in _request
+    return self._retry(self._request_once, http_request, stream)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\tenacity\__init__.py", line 470, in __call__
+    do = self.iter(retry_state=retry_state)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\tenacity\__init__.py", line 371, in iter
+    result = action(retry_state)
+             ^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\tenacity\__init__.py", line 413, in exc_check
+    raise retry_exc.reraise()
+          ^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\tenacity\__init__.py", line 184, in reraise
+    raise self.last_attempt.result()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PyAnaconda\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "D:\PyAnaconda\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\tenacity\__init__.py", line 473, in __call__
+    result = fn(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\_api_client.py", line 1199, in _request_once
+    errors.APIError.raise_for_response(response)
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\errors.py", line 134, in raise_for_response
+    cls.raise_error(response.status_code, response_json, response)
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\google\genai\errors.py", line 159, in raise_error
+    raise ClientError(status_code, response_json, response)
+google.genai.errors.ClientError: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Your API key was reported as leaked. Please use another API key.', 'status': 'PERMISSION_DENIED'}}
+
+2026-02-09 18:38:44.293 | SUCCESS  | __main__:check_account:269 - ✅ [工作] 处理成功: Your Security Verification Code: 402918
+2026-02-09 18:38:45.299 | INFO     | __main__:scheduler:289 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:39:15.314 | INFO     | __main__:check_account:223 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:39:17.385 | DEBUG    | __main__:check_account:260 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:39:17.386 | INFO     | __main__:scheduler:289 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:39:47.395 | INFO     | __main__:check_account:223 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:39:49.275 | DEBUG    | __main__:check_account:260 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:39:49.275 | INFO     | __main__:scheduler:289 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:40:19.281 | INFO     | __main__:check_account:223 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:40:21.398 | DEBUG    | __main__:check_account:260 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:40:21.398 | INFO     | __main__:scheduler:289 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:40:23.087 | WARNING  | __main__:<module>:319 - 🛑 [SYSTEM] 服务已手动停止。
+2026-02-09 18:40:45.525 | SUCCESS  | __main__:scheduler:286 - 🚀 [SYSTEM] 正在监听 1 个邮箱...
+2026-02-09 18:40:45.525 | INFO     | __main__:check_account:223 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:40:47.243 | DEBUG    | __main__:check_account:260 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:40:47.243 | INFO     | __main__:scheduler:289 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:41:17.251 | INFO     | __main__:check_account:223 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:41:19.050 | DEBUG    | __main__:check_account:260 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:41:19.051 | INFO     | __main__:scheduler:289 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:41:49.063 | INFO     | __main__:check_account:223 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:41:51.013 | SUCCESS  | __main__:check_account:263 - 📩 [工作] 发现 1 封未处理新邮件！
+2026-02-09 18:41:57.055 | SUCCESS  | __main__:check_account:269 - ✅ [工作] 处理成功: again
+2026-02-09 18:41:58.056 | INFO     | __main__:scheduler:289 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:42:15.616 | WARNING  | __main__:<module>:319 - 🛑 [SYSTEM] 服务已手动停止。
+2026-02-09 18:46:15.174 | SUCCESS  | __main__:scheduler:286 - 🚀 [SYSTEM] 正在监听 2 个邮箱...
+2026-02-09 18:46:15.174 | INFO     | __main__:check_account:223 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:46:15.175 | INFO     | __main__:check_account:223 - 🔍 [CONN] 正在检查: [个人] (zhaoqsnyah@163.com)...
+2026-02-09 18:46:15.650 | ERROR    | __main__:check_account:273 - ❌ [个人] 连接或处理错误！
+2026-02-09 18:46:15.657 | ERROR    | __main__:check_account:274 - Traceback (most recent call last):
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 250, in check_account
+    messages = await loop.run_in_executor(executor, fetch_unread)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PyAnaconda\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 228, in fetch_unread
+    with MailBox(server).login(email, acc['password'], initial_folder=acc.get('folder', 'INBOX')) as mb:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\imap_tools\mailbox.py", line 65, in login
+    self.folder.set(initial_folder)
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\imap_tools\folder.py", line 43, in set
+    check_command_status(result, MailboxFolderSelectError)
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\imap_tools\utils.py", line 48, in check_command_status
+    raise exception(command_result=command_result, expected=expected)
+imap_tools.errors.MailboxFolderSelectError: Response status "OK" expected, but "NO" received. Data: [b'SELECT Unsafe Login. Please contact kefu@188.com for help']
+
+2026-02-09 18:46:17.200 | DEBUG    | __main__:check_account:260 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:46:17.200 | INFO     | __main__:scheduler:289 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:46:44.109 | WARNING  | __main__:<module>:319 - 🛑 [SYSTEM] 服务已手动停止。
+2026-02-09 18:48:03.327 | SUCCESS  | __main__:scheduler:286 - 🚀 [SYSTEM] 正在监听 2 个邮箱...
+2026-02-09 18:48:03.327 | INFO     | __main__:check_account:223 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:48:03.329 | INFO     | __main__:check_account:223 - 🔍 [CONN] 正在检查: [个人] (zhaoqsnyah@163.com)...
+2026-02-09 18:48:03.746 | ERROR    | __main__:check_account:273 - ❌ [个人] 连接或处理错误！
+2026-02-09 18:48:03.749 | ERROR    | __main__:check_account:274 - Traceback (most recent call last):
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 250, in check_account
+    messages = await loop.run_in_executor(executor, fetch_unread)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PyAnaconda\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 228, in fetch_unread
+    with MailBox(server).login(email, acc['password'], initial_folder=acc.get('folder', 'INBOX')) as mb:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\imap_tools\mailbox.py", line 65, in login
+    self.folder.set(initial_folder)
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\imap_tools\folder.py", line 43, in set
+    check_command_status(result, MailboxFolderSelectError)
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\imap_tools\utils.py", line 48, in check_command_status
+    raise exception(command_result=command_result, expected=expected)
+imap_tools.errors.MailboxFolderSelectError: Response status "OK" expected, but "NO" received. Data: [b'SELECT Unsafe Login. Please contact kefu@188.com for help']
+
+2026-02-09 18:48:05.490 | DEBUG    | __main__:check_account:260 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:48:05.490 | INFO     | __main__:scheduler:289 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:48:07.544 | WARNING  | __main__:<module>:319 - 🛑 [SYSTEM] 服务已手动停止。
+2026-02-09 18:49:24.686 | SUCCESS  | __main__:scheduler:286 - 🚀 [SYSTEM] 正在监听 2 个邮箱...
+2026-02-09 18:49:24.687 | INFO     | __main__:check_account:223 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:49:24.688 | INFO     | __main__:check_account:223 - 🔍 [CONN] 正在检查: [个人] (zhaoqsnyah@163.com)...
+2026-02-09 18:49:25.087 | ERROR    | __main__:check_account:273 - ❌ [个人] 连接或处理错误！
+2026-02-09 18:49:25.089 | ERROR    | __main__:check_account:274 - Traceback (most recent call last):
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 250, in check_account
+    messages = await loop.run_in_executor(executor, fetch_unread)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PyAnaconda\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 228, in fetch_unread
+    with MailBox(server).login(email, acc['password'], initial_folder=acc.get('folder', 'INBOX')) as mb:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\imap_tools\mailbox.py", line 65, in login
+    self.folder.set(initial_folder)
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\imap_tools\folder.py", line 43, in set
+    check_command_status(result, MailboxFolderSelectError)
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\imap_tools\utils.py", line 48, in check_command_status
+    raise exception(command_result=command_result, expected=expected)
+imap_tools.errors.MailboxFolderSelectError: Response status "OK" expected, but "NO" received. Data: [b'SELECT Unsafe Login. Please contact kefu@188.com for help']
+
+2026-02-09 18:49:26.569 | DEBUG    | __main__:check_account:260 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:49:26.569 | INFO     | __main__:scheduler:289 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:49:27.288 | WARNING  | __main__:<module>:319 - 🛑 [SYSTEM] 服务已手动停止。
+2026-02-09 18:51:54.981 | SUCCESS  | __main__:scheduler:286 - 🚀 [SYSTEM] 正在监听 2 个邮箱...
+2026-02-09 18:51:54.981 | INFO     | __main__:check_account:223 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:51:54.984 | INFO     | __main__:check_account:223 - 🔍 [CONN] 正在检查: [个人] (zhaoqsnyah@163.com)...
+2026-02-09 18:51:55.397 | ERROR    | __main__:check_account:273 - ❌ [个人] 连接或处理错误！
+2026-02-09 18:51:55.399 | ERROR    | __main__:check_account:274 - Traceback (most recent call last):
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 250, in check_account
+    messages = await loop.run_in_executor(executor, fetch_unread)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PyAnaconda\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 228, in fetch_unread
+    with MailBox(server).login(email, acc['password'], initial_folder=acc.get('folder', 'INBOX')) as mb:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\imap_tools\mailbox.py", line 65, in login
+    self.folder.set(initial_folder)
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\imap_tools\folder.py", line 43, in set
+    check_command_status(result, MailboxFolderSelectError)
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\imap_tools\utils.py", line 48, in check_command_status
+    raise exception(command_result=command_result, expected=expected)
+imap_tools.errors.MailboxFolderSelectError: Response status "OK" expected, but "NO" received. Data: [b'SELECT Unsafe Login. Please contact kefu@188.com for help']
+
+2026-02-09 18:51:57.162 | DEBUG    | __main__:check_account:260 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:51:57.162 | INFO     | __main__:scheduler:289 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:52:27.175 | INFO     | __main__:check_account:223 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:52:27.176 | INFO     | __main__:check_account:223 - 🔍 [CONN] 正在检查: [个人] (zhaoqsnyah@163.com)...
+2026-02-09 18:52:27.615 | ERROR    | __main__:check_account:273 - ❌ [个人] 连接或处理错误！
+2026-02-09 18:52:27.617 | ERROR    | __main__:check_account:274 - Traceback (most recent call last):
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 250, in check_account
+    messages = await loop.run_in_executor(executor, fetch_unread)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PyAnaconda\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 228, in fetch_unread
+    with MailBox(server).login(email, acc['password'], initial_folder=acc.get('folder', 'INBOX')) as mb:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\imap_tools\mailbox.py", line 65, in login
+    self.folder.set(initial_folder)
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\imap_tools\folder.py", line 43, in set
+    check_command_status(result, MailboxFolderSelectError)
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\imap_tools\utils.py", line 48, in check_command_status
+    raise exception(command_result=command_result, expected=expected)
+imap_tools.errors.MailboxFolderSelectError: Response status "OK" expected, but "NO" received. Data: [b'SELECT Unsafe Login. Please contact kefu@188.com for help']
+
+2026-02-09 18:52:28.975 | DEBUG    | __main__:check_account:260 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:52:28.976 | INFO     | __main__:scheduler:289 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:52:58.980 | INFO     | __main__:check_account:223 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:52:58.980 | INFO     | __main__:check_account:223 - 🔍 [CONN] 正在检查: [个人] (zhaoqsnyah@163.com)...
+2026-02-09 18:52:59.376 | ERROR    | __main__:check_account:273 - ❌ [个人] 连接或处理错误！
+2026-02-09 18:52:59.377 | ERROR    | __main__:check_account:274 - Traceback (most recent call last):
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 250, in check_account
+    messages = await loop.run_in_executor(executor, fetch_unread)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PyAnaconda\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 228, in fetch_unread
+    with MailBox(server).login(email, acc['password'], initial_folder=acc.get('folder', 'INBOX')) as mb:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\imap_tools\mailbox.py", line 65, in login
+    self.folder.set(initial_folder)
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\imap_tools\folder.py", line 43, in set
+    check_command_status(result, MailboxFolderSelectError)
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\imap_tools\utils.py", line 48, in check_command_status
+    raise exception(command_result=command_result, expected=expected)
+imap_tools.errors.MailboxFolderSelectError: Response status "OK" expected, but "NO" received. Data: [b'SELECT Unsafe Login. Please contact kefu@188.com for help']
+
+2026-02-09 18:53:01.125 | DEBUG    | __main__:check_account:260 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:53:01.125 | INFO     | __main__:scheduler:289 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:53:31.129 | INFO     | __main__:check_account:223 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:53:31.129 | INFO     | __main__:check_account:223 - 🔍 [CONN] 正在检查: [个人] (zhaoqsnyah@163.com)...
+2026-02-09 18:53:31.538 | ERROR    | __main__:check_account:273 - ❌ [个人] 连接或处理错误！
+2026-02-09 18:53:31.539 | ERROR    | __main__:check_account:274 - Traceback (most recent call last):
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 250, in check_account
+    messages = await loop.run_in_executor(executor, fetch_unread)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PyAnaconda\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 228, in fetch_unread
+    with MailBox(server).login(email, acc['password'], initial_folder=acc.get('folder', 'INBOX')) as mb:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\imap_tools\mailbox.py", line 65, in login
+    self.folder.set(initial_folder)
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\imap_tools\folder.py", line 43, in set
+    check_command_status(result, MailboxFolderSelectError)
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\imap_tools\utils.py", line 48, in check_command_status
+    raise exception(command_result=command_result, expected=expected)
+imap_tools.errors.MailboxFolderSelectError: Response status "OK" expected, but "NO" received. Data: [b'SELECT Unsafe Login. Please contact kefu@188.com for help']
+
+2026-02-09 18:53:32.036 | WARNING  | __main__:<module>:319 - 🛑 [SYSTEM] 服务已手动停止。
+2026-02-09 18:56:05.526 | SUCCESS  | __main__:scheduler:286 - 🚀 [SYSTEM] 正在监听 2 个邮箱...
+2026-02-09 18:56:05.526 | INFO     | __main__:check_account:223 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:56:05.528 | INFO     | __main__:check_account:223 - 🔍 [CONN] 正在检查: [个人] (zhaoqsnyah@163.com)...
+2026-02-09 18:56:05.980 | ERROR    | __main__:check_account:273 - ❌ [个人] 连接或处理错误！
+2026-02-09 18:56:05.983 | ERROR    | __main__:check_account:274 - Traceback (most recent call last):
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 250, in check_account
+    messages = await loop.run_in_executor(executor, fetch_unread)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PyAnaconda\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 228, in fetch_unread
+    with MailBox(server).login(email, acc['password'], initial_folder=acc.get('folder', 'INBOX')) as mb:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\imap_tools\mailbox.py", line 65, in login
+    self.folder.set(initial_folder)
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\imap_tools\folder.py", line 43, in set
+    check_command_status(result, MailboxFolderSelectError)
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\imap_tools\utils.py", line 48, in check_command_status
+    raise exception(command_result=command_result, expected=expected)
+imap_tools.errors.MailboxFolderSelectError: Response status "OK" expected, but "NO" received. Data: [b'SELECT Unsafe Login. Please contact kefu@188.com for help']
+
+2026-02-09 18:56:07.717 | DEBUG    | __main__:check_account:260 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:56:07.717 | INFO     | __main__:scheduler:289 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:56:37.726 | INFO     | __main__:check_account:223 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:56:37.727 | INFO     | __main__:check_account:223 - 🔍 [CONN] 正在检查: [个人] (zhaoqsnyah@163.com)...
+2026-02-09 18:56:38.150 | ERROR    | __main__:check_account:273 - ❌ [个人] 连接或处理错误！
+2026-02-09 18:56:38.151 | ERROR    | __main__:check_account:274 - Traceback (most recent call last):
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 250, in check_account
+    messages = await loop.run_in_executor(executor, fetch_unread)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PyAnaconda\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 228, in fetch_unread
+    with MailBox(server).login(email, acc['password'], initial_folder=acc.get('folder', 'INBOX')) as mb:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\imap_tools\mailbox.py", line 65, in login
+    self.folder.set(initial_folder)
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\imap_tools\folder.py", line 43, in set
+    check_command_status(result, MailboxFolderSelectError)
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\imap_tools\utils.py", line 48, in check_command_status
+    raise exception(command_result=command_result, expected=expected)
+imap_tools.errors.MailboxFolderSelectError: Response status "OK" expected, but "NO" received. Data: [b'SELECT Unsafe Login. Please contact kefu@188.com for help']
+
+2026-02-09 18:56:40.054 | DEBUG    | __main__:check_account:260 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:56:40.054 | INFO     | __main__:scheduler:289 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:57:10.064 | INFO     | __main__:check_account:223 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:57:10.065 | INFO     | __main__:check_account:223 - 🔍 [CONN] 正在检查: [个人] (zhaoqsnyah@163.com)...
+2026-02-09 18:57:12.064 | DEBUG    | __main__:check_account:260 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:57:13.370 | ERROR    | __main__:check_account:273 - ❌ [个人] 连接或处理错误！
+2026-02-09 18:57:13.371 | ERROR    | __main__:check_account:274 - Traceback (most recent call last):
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 250, in check_account
+    messages = await loop.run_in_executor(executor, fetch_unread)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PyAnaconda\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 228, in fetch_unread
+    with MailBox(server).login(email, acc['password'], initial_folder=acc.get('folder', 'INBOX')) as mb:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\imap_tools\mailbox.py", line 62, in login
+    check_command_status(login_result, MailboxLoginError)
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\imap_tools\utils.py", line 48, in check_command_status
+    raise exception(command_result=command_result, expected=expected)
+imap_tools.errors.MailboxLoginError: Response status "OK" expected, but "NO" received. Data: [b'LOGIN Login error or password error']
+
+2026-02-09 18:57:13.371 | INFO     | __main__:scheduler:289 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:57:43.383 | INFO     | __main__:check_account:223 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:57:43.383 | INFO     | __main__:check_account:223 - 🔍 [CONN] 正在检查: [个人] (zhaoqsnyah@163.com)...
+2026-02-09 18:57:45.210 | DEBUG    | __main__:check_account:260 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:57:46.694 | ERROR    | __main__:check_account:273 - ❌ [个人] 连接或处理错误！
+2026-02-09 18:57:46.695 | ERROR    | __main__:check_account:274 - Traceback (most recent call last):
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 250, in check_account
+    messages = await loop.run_in_executor(executor, fetch_unread)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PyAnaconda\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 228, in fetch_unread
+    with MailBox(server).login(email, acc['password'], initial_folder=acc.get('folder', 'INBOX')) as mb:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\imap_tools\mailbox.py", line 62, in login
+    check_command_status(login_result, MailboxLoginError)
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\imap_tools\utils.py", line 48, in check_command_status
+    raise exception(command_result=command_result, expected=expected)
+imap_tools.errors.MailboxLoginError: Response status "OK" expected, but "NO" received. Data: [b'LOGIN Login error or password error']
+
+2026-02-09 18:57:46.695 | INFO     | __main__:scheduler:289 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:58:08.530 | WARNING  | __main__:<module>:319 - 🛑 [SYSTEM] 服务已手动停止。
+2026-02-09 18:58:09.968 | SUCCESS  | __main__:scheduler:286 - 🚀 [SYSTEM] 正在监听 2 个邮箱...
+2026-02-09 18:58:09.968 | INFO     | __main__:check_account:223 - 🔍 [CONN] 正在检查: [工作] (3381485209@qq.com)...
+2026-02-09 18:58:09.969 | INFO     | __main__:check_account:223 - 🔍 [CONN] 正在检查: [个人] (zhaoqsnyah@163.com)...
+2026-02-09 18:58:11.864 | DEBUG    | __main__:check_account:260 - ✨ [工作] 邮件已在数据库中，跳过。
+2026-02-09 18:58:13.295 | ERROR    | __main__:check_account:273 - ❌ [个人] 连接或处理错误！
+2026-02-09 18:58:13.297 | ERROR    | __main__:check_account:274 - Traceback (most recent call last):
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 250, in check_account
+    messages = await loop.run_in_executor(executor, fetch_unread)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PyAnaconda\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\src\main.py", line 228, in fetch_unread
+    with MailBox(server).login(email, acc['password'], initial_folder=acc.get('folder', 'INBOX')) as mb:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\imap_tools\mailbox.py", line 62, in login
+    check_command_status(login_result, MailboxLoginError)
+  File "E:\GitAHubRepository\Mail-Gateway-Hub\.venv\Lib\site-packages\imap_tools\utils.py", line 48, in check_command_status
+    raise exception(command_result=command_result, expected=expected)
+imap_tools.errors.MailboxLoginError: Response status "OK" expected, but "NO" received. Data: [b'LOGIN Login error or password error']
+
+2026-02-09 18:58:13.297 | INFO     | __main__:scheduler:289 - 💓 [HEARTBEAT] 监听中，30秒后下一轮...
+2026-02-09 18:58:34.365 | WARNING  | __main__:<module>:319 - 🛑 [SYSTEM] 服务已手动停止。

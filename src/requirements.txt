@@ -1,0 +1,4 @@
+google-genai>=1.0.0
+imap-tools>=1.5.0
+loguru>=0.7.0
+requests>=2.31.0

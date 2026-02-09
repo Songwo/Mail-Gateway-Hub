@@ -1,0 +1,4 @@
+config.json
+mail_gateway.log
+mail_gateway.db
+.venv/

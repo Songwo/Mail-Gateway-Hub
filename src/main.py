@@ -4,12 +4,12 @@ import json
 import sqlite3
 import sys
 import traceback
-from datetime import datetime
+from datetime import datetime, date, timedelta
 from concurrent.futures import ThreadPoolExecutor
 from typing import List, Dict, Any, Optional
 
 import requests
-import google.generativeai as genai
+from google import genai
 from imap_tools import MailBox, AND
 from loguru import logger
 
@@ -19,6 +19,7 @@ from loguru import logger
 SCRIPT_START_TIME = datetime.now()
 DB_PATH = "mail_gateway.db"
 CONFIG_FILE = "config.json"
+MODEL_INIT_DONE = False
 
 logger.remove()
 logger.add(sys.stdout, colorize=True, format="<green>{time:YYYY-MM-DD HH:mm:ss}</green> | <level>{level: <8}</level> | <cyan>{message}</cyan>")
@@ -88,28 +89,82 @@ def _sync_call_gemini(content: str, config: Dict) -> Dict:
     if not api_key:
         return {"category": "未配置AI", "summary": "未配置 Gemini API Key", "priority": 1}
     
-    genai.configure(api_key=api_key)
-    
-    target_models = ['gemini-1.5-flash-latest', 'gemini-1.5-flash', 'gemini-pro']
+    # 代理配置
+    proxy = config.get("use_proxy")
+    if proxy:
+        import os
+        os.environ["HTTP_PROXY"] = proxy
+        os.environ["HTTPS_PROXY"] = proxy
+        logger.info(f"🌐 [AI] 使用代理: {proxy}")
+
+    config_model = config.get("gemini_model")
+    if config_model:
+        target_models = [config_model]
+    else:
+        target_models = [
+            'gemini-2.5-flash',
+            'gemini-2.5-flash-latest',
+            'gemini-2.5-pro',
+            'gemini-1.5-flash-latest',
+            'gemini-1.5-flash',
+        ]
     model_to_use = "gemini-1.5-flash-latest"
     
+    client = genai.Client(api_key=api_key)
     try:
-        # 尝试发现可用模型
-        available_models = [m.name for m in genai.list_models() if 'generateContent' in m.supported_generation_methods]
-        for tm in target_models:
-            if f"models/{tm}" in available_models:
-                model_to_use = tm
-                break
-        
-        model = genai.GenerativeModel(model_to_use)
+        global MODEL_INIT_DONE
+        if not MODEL_INIT_DONE and not config_model:
+            detected = _detect_first_available_model(client, target_models)
+            if detected:
+                config["gemini_model"] = detected
+                _write_config(config)
+                target_models = [detected]
+                logger.info(f"✅ [AI] 自动检测可用模型: {detected}，已写入配置")
+            MODEL_INIT_DONE = True
+
         prompt = f"{config.get('system_prompt', '')}\nEmail Content: {content[:3000]}\nOutput JSON ONLY."
-        resp = model.generate_content(prompt)
-        text = resp.text.replace('```json', '').replace('```', '').strip()
-        return json.loads(text)
+        last_error = None
+        for tm in target_models:
+            try:
+                model_to_use = tm
+                resp = client.models.generate_content(model=tm, contents=prompt)
+                text = (resp.text or "").replace('```json', '').replace('```', '').strip()
+                return json.loads(text)
+            except Exception as e:
+                logger.warning(f"⚠️ [AI] 模型不可用或调用失败: {tm} | {type(e).__name__}")
+                last_error = e
+                continue
+        raise last_error if last_error else RuntimeError("未能调用任何可用模型")
     except Exception:
         logger.error(f"❌ [AI] Gemini 调用失败 (尝试模型: {model_to_use})")
         logger.error(traceback.format_exc())
         return {"category": "AI Error", "summary": "解析失败", "priority": 1}
+    finally:
+        try:
+            client.close()
+        except Exception:
+            pass
+
+def _detect_first_available_model(client: "genai.Client", candidates: List[str]) -> Optional[str]:
+    try:
+        available = set()
+        for m in client.models.list():
+            name = getattr(m, "name", "") or ""
+            if name.startswith("models/"):
+                available.add(name.replace("models/", ""))
+        for c in candidates:
+            if c in available:
+                return c
+    except Exception as e:
+        logger.warning(f"⚠️ [AI] 自动检测模型失败: {type(e).__name__}")
+    return None
+
+def _write_config(config: Dict) -> None:
+    try:
+        with open(CONFIG_FILE, "w", encoding="utf-8") as f:
+            json.dump(config, f, ensure_ascii=False, indent=2)
+    except Exception as e:
+        logger.warning(f"⚠️ [CONFIG] 写入配置失败: {type(e).__name__}")
 
 async def async_send_feishu(msg_data: Dict, ai_result: Dict, config: Dict, account_cfg: Dict):
     loop = asyncio.get_running_loop()
@@ -144,7 +199,7 @@ def _sync_send_feishu(msg_data: Dict, ai_result: Dict, config: Dict, account_cfg
                 {"tag": "div", "text": {"tag": "lark_md", "content": content_md}},
                 {"tag": "hr"},
                 {
-                    "tag": "note", 
+                    "tag": "note",
                     "elements": [
                         {"tag": "plain_text", "content": f"📍 身份: {alias} | 账号: {email}\n🤖 由 Mail-Gateway-Hub 驱动"}
                     ]
@@ -172,9 +227,19 @@ async def check_account(acc: Dict, global_config: Dict):
         def fetch_unread():
             with MailBox(server).login(email, acc['password'], initial_folder=acc.get('folder', 'INBOX')) as mb:
                 msgs = []
+                # 强制拉取所有 UNSEEN 邮件，避免漏收
+                seen_uids = set()
                 for m in mb.fetch(AND(seen=False)):
-                    msg_date = m.date.replace(tzinfo=None)
-                    if msg_date < SCRIPT_START_TIME.replace(tzinfo=None):
+                    seen_uids.add(m.uid)
+                    msgs.append({
+                        "uid": m.uid, "subject": m.subject, "from": m.from_,
+                        "content": m.text or m.html or ""
+                    })
+
+                # 放宽时间校验范围，额外拉取最近 7 天的未读邮件作兜底
+                since_date = (date.today() - timedelta(days=7))
+                for m in mb.fetch(AND(seen=False, date_gte=since_date)):
+                    if m.uid in seen_uids:
                         continue
                     msgs.append({
                         "uid": m.uid, "subject": m.subject, "from": m.from_,
@@ -188,16 +253,21 @@ async def check_account(acc: Dict, global_config: Dict):
             logger.debug(f"✨ [{alias}] 无新邮件。")
             return
 
-        logger.success(f"📩 [{alias}] 发现 {len(messages)} 封新邮件！")
+        # 过滤掉已经处理过的 UID
+        new_messages = [m for m in messages if not is_processed(email, m['uid'])]
+        
+        if not new_messages:
+            logger.debug(f"✨ [{alias}] 邮件已在数据库中，跳过。")
+            return
 
-        for msg in messages:
-            if is_processed(email, msg['uid']):
-                continue
+        logger.success(f"📩 [{alias}] 发现 {len(new_messages)} 封未处理新邮件！")
+
+        for msg in new_messages:
             ai_result = await async_call_gemini(msg['content'], global_config)
             await async_send_feishu(msg, ai_result, global_config, acc)
             save_result(email, alias, msg['uid'], ai_result)
             logger.success(f"✅ [{alias}] 处理成功: {msg['subject']}")
-            await asyncio.sleep(2) # 频率限制
+            await asyncio.sleep(1) # 频率限制
 
     except Exception:
         logger.error(f"❌ [{alias}] 连接或处理错误！")
@@ -216,11 +286,11 @@ async def scheduler(config: Dict, run_once: bool = False):
         logger.success(f"🚀 [SYSTEM] 正在监听 {len(accounts)} 个邮箱...")
         while True:
             await asyncio.gather(*[check_account(acc, config) for acc in accounts])
-            logger.info("💓 [HEARTBEAT] 监听中，20秒后下一轮...")
-            await asyncio.sleep(20)
+            logger.info("💓 [HEARTBEAT] 监听中，30秒后下一轮...")
+            await asyncio.sleep(30)
 
 # ===========================
-# 4. 入口
+# 5. 入口
 # ===========================
 if __name__ == "__main__":
     init_db()
@@ -239,7 +309,11 @@ if __name__ == "__main__":
         sys.exit(0)
 
     config = load_config()
-    try:
-        asyncio.run(scheduler(config, run_once=args.once))
-    except KeyboardInterrupt:
-        logger.warning("🛑 [SYSTEM] 服务已停止。")
+
+    if args.once:
+        asyncio.run(scheduler(config, run_once=True))
+    else:
+        try:
+            asyncio.run(scheduler(config))
+        except KeyboardInterrupt:
+            logger.warning("🛑 [SYSTEM] 服务已手动停止。")
