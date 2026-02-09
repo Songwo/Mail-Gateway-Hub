@@ -1,6 +1,6 @@
 {
   "gemini_api_key": "*****",
-  "feishu_webhook": "https://open.feishu.cn/open-apis/bot/v2/hook/de976dde-04d4-407e-a1a0-3349c01445b9",
+  "feishu_webhook": "************************",
   "system_prompt": "你是一个高效邮件助理。请分析邮件内容，返回 JSON：{\"category\": \"验证码|重要通知|垃圾推广|社交动态|工作相关|其他\", \"priority\": 1-5, \"summary\": \"50字内摘要\", \"verification_code\": \"提取到的验证码或null\"}。",
   "accounts": [
     {
